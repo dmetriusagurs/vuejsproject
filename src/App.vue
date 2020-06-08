@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/rebel-alliance.png">
    
-    <HelloWorld msg="How you doing Mayvue!"/>
+    <HelloWorld msg="Welcome to my Vue.js App!"/>
     <br>
     <Button msg="Click Me"/>
   </div>
