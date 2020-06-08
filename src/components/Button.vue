@@ -2,7 +2,7 @@
 <div id="button-click">
     <h1>{{ msg }}</h1>
 
-  <button v-on:click="counter += 1">Click Me</button>
+  <button @click="counter += 1">Click Me</button>
   <p>The button above has been clicked {{ counter }} times!</p>
 </div>
 </template>

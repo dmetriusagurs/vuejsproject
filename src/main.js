@@ -8,14 +8,6 @@ new Vue({
   render: h => h(App),
 }).$mount('#app')
 
-var button = new Vue({
-  el: 'Button',
-  data: {
-    message : " ",
-    counter: 0
-  }
-})
-button.message = "clicked"
 // const input = document.querySelector('input');
 // const log = document.getElementById('values');
 
